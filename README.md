@@ -5,7 +5,7 @@ Submission for Bryan Tran Lu
 This assignment utilizes a SQLite database to read data into a Pandas DataFrame for further financil analysis.
 
 ## Instructions
-The assignment script can be found in the Starter_Code folder. The file name is 'etf_analyzer.ipynb'.
+The assignment script can be found in the Starter_Code folder. The file name is `etf_analyzer.ipynb`.
 
 ## Installation Requirements
 Import the following packages before running the script.
