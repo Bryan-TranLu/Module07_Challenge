@@ -2,7 +2,7 @@
 Submission for Bryan Tran Lu
 
 ## Description
-This assigment uses API keys to read json files in python. Monte Carlo simulations will be performed to analyze the returns of various porfolio weights of stocks and bonds.
+This assignment utilizes a SQLite database to read data into a Pandas DataFrame for further financil analysis.
 
 ## Instructions
 The assignment script can be found in the Starter_Code folder. The file name is etf_analyzer.ipynb.
@@ -15,6 +15,10 @@ import pandas as pd
 import hvplot.pandas
 import sqlalchemy
 ```
-## Acknowledgements
 
-## License
+## Visuals
+
+## Usage
+
+## Authors and Support
+If there are any questions regarding the assignment, please reach out via email.
