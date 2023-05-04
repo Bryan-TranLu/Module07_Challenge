@@ -17,7 +17,8 @@ import sqlalchemy
 ```
 
 ## Visuals
-![Image Link](
+![Image Link](https://github.com/Bryan-TranLu/Module07_Challenge/blob/main/Voila%20Screenshot.png)
+
 ## Usage
 
 ## Authors and Support
